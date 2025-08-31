@@ -7,7 +7,7 @@ Modern ve responsive bir **spor salonu web sitesi** tasarımı. HTML, CSS ve Jav
 ## 🌐 Canlı Site
 
 Projenin canlı versiyonuna buradan ulaşabilirsiniz:  
-[**Powerfull Gym Live Site**](https://ornek-site.netlify.app)
+[**Powerfull Gym Live Site**](https://68b4487baed7467e99ffd1c1--exquisite-melomakarona-c8312d.netlify.app/)
 
 ---
 
